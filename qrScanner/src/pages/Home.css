@@ -1,0 +1,11 @@
+.hideBg::part(background) {
+    opacity: 0;
+}
+
+.start-scan-button {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
